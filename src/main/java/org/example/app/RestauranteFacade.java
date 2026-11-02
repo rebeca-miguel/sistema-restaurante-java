@@ -52,7 +52,7 @@ public class RestauranteFacade {
     public ItemCardapio personalizarAdicionais(Lanche lanche, boolean cheddar, boolean baconExtra) {
         ItemCardapio item = lanche;
         if (cheddar) item = new ComCheddar(item);
-        if(baconExtra) item = new ComBanconExtra(item);
+        if(baconExtra) item = new ComBaconExtra(item);
         return item;
     }
 }

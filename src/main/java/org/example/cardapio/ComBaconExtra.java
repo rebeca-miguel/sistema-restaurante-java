@@ -1,9 +1,9 @@
 package org.example.cardapio;
 
-public class ComBanconExtra implements ItemCardapio{
+public class ComBaconExtra implements ItemCardapio{
     private final ItemCardapio itemEmbrulhado;
 
-    public ComBanconExtra(ItemCardapio item) {
+    public ComBaconExtra(ItemCardapio item) {
         if (item == null) {
             throw new IllegalArgumentException("O item não pode ser nullo.");
         }

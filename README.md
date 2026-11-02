@@ -1,7 +1,7 @@
 
 # Sistema de Restaurante (Java)
 
-> Projeto desenvolvido para praticar Java, programa orientada a objeto, padrões de projeto e testes automatizados.
+> Projeto desenvolvido para praticar Java, programação orientada a objeto, padrões de projeto e testes automatizados.
 
 ## Funcionalidades
 
