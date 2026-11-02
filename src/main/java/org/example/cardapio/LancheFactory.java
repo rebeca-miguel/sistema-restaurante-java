@@ -1,6 +1,7 @@
 package org.example.cardapio;
 
 public class LancheFactory {
+
     private LancheFactory() {
     }
 

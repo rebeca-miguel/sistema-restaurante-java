@@ -57,3 +57,7 @@ mvn test
 - Desenvolvido como projeto de estudo em Java com IA da SoulCode.
 
 - Rebeca Miguel
+
+Link do vídeo de apresentação do projeto:
+
+-https://drive.google.com/file/d/1tM73SpORGTthV_iU7FGWH-N9ov_J0MND/view?usp=sharing
